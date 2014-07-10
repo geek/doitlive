@@ -1,0 +1,34 @@
+{
+  "name": "doitlive",
+  "version": "0.0.1",
+  "description": "Wrap a hapi plugin in a pack and start the server",
+  "bin": {
+    "doitlive": "./doitlive.js"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/lab test -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wpreul/doitlive"
+  },
+  "keywords": [
+    "hapi",
+    "hapi-plugin",
+    "plugin",
+    "cli"
+  ],
+  "author": "Wyatt Preul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wpreul/doitlive/issues"
+  },
+  "homepage": "https://github.com/wpreul/doitlive",
+  "devDependencies": {
+    "lab": "3.x.x",
+    "tv": "2.x.x"
+  },
+  "dependencies": {
+    "hapi": "6.x.x"
+  }
+}
