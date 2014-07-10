@@ -4,14 +4,9 @@ CLI to wrap a hapi plugin in a pack and start the server.
 
 ## Getting Started
 
-1. Install doitlive globally with:
-
-```
-npm install -g doitlive
-```
+1. Install doitlive globally with:`npm install -g doitlive`
 
 2. Inside of a plugin folder for hapi run `doitlive`
-
 
 ## Options
 
