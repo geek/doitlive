@@ -1,6 +1,6 @@
 CLI to wrap a hapi plugin in a pack and start the server.
 
-[![Build Status](https://secure.travis-ci.org/wpreul/doitlive.svg)](http://travis-ci.org/wpreul/doitlive)
+[![Build Status](https://secure.travis-ci.org/geek/doitlive.svg)](http://travis-ci.org/geek/doitlive)
 
 ## Getting Started
 
